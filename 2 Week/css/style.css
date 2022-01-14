@@ -1,0 +1,228 @@
+body {
+background-image: url(img/bg.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-position: 0 0;
+background-attachment: fixed;
+background-color: #AFEEEE;
+font-family: "Rubic", sans-serif;
+  padding: 0;
+  margin: 20;
+  font-size: 14px;
+
+  
+  
+  
+
+}
+<p style="color:#FFFFFF;">;
+  p {color:white; font-family:Rubic;}
+p {color:white; font-family:Rubic;}
+
+nav {
+  width:1280px;
+  margin: 0 auto;
+}
+
+nav:before{
+  content:''; 
+  display:block;
+  height:50px;
+  width:100%;
+  background:#FFF;
+  position:absolute;
+  left:0;
+  z-index:-1;
+ 
+}
+
+ul{
+  margin:0;
+  padding:0;
+  list-style:none;
+  height:50px;
+}
+
+ul li{
+  float:left;
+}
+
+ul li a{
+  color:#fff;
+  display:block;
+  height:50px;
+  padding:0 30px;
+  text-transform:uppercase;
+  text-decoration:none;
+  line-height:50px;
+}
+
+ul li a:hover{
+  background:#0CF0F7;
+}
+#text-part{
+	background: #80808080;
+	width:500px;
+height:500px;
+}
+
+
+#expo
+{
+background: #80808080;
+width:500px;
+height:200px;
+color:white;
+position:absolute;
+left:150px;
+top:300px;
+}
+
+#pyramida{
+	background: #80808080;
+width:500px;
+height:290px;
+position:absolute;
+left:900px;
+top:640px;
+}
+
+#kazak
+{
+background: #80808080;
+width:500px;
+height:290px;
+position:absolute;
+left:150px;
+top:1100px;	
+}
+
+#nurzhol
+{
+background: #80808080;
+width:500px;
+height:340px;
+position:absolute;
+left:900px;
+top:1550px;	
+}
+
+
+
+#shop1
+{
+	position:absolute;
+	top:2500px;
+	left:700px;
+	color:white;
+}
+
+#khanshater
+{
+background: #80808080;
+width:500px;
+height:200px;
+position:absolute;
+left:150px;
+top:2000px;
+}
+
+#mega
+{
+background: #80808080;
+width:500px;
+height:200px;
+position:absolute;
+left:900px;
+top:2700px;	
+}
+
+#asiapark
+{
+background: #80808080;
+width:500px;
+height:200px;
+position:absolute;
+left:150px;
+top:3100px	
+}
+
+#contact
+{
+	position:absolute;
+left:700px;
+top:3400px;	
+}
+
+#about
+{
+position:absolute;
+left:700px;
+top:50px;
+color:white;	
+}
+
+#view
+{
+position:absolute;
+left:700px;
+top:150px;	
+color:white;
+}
+
+#country
+{
+	position:absolute;
+left:0px;
+top:100px;
+}
+
+#expoimg
+{
+
+position:absolute;
+left:1000px;
+top:250px;
+}
+
+#pyramidaimg
+{
+position:absolute;
+left:150px;
+top:640px;	
+}
+
+#kazakimg
+{
+position:absolute;
+left:900px;
+top:1100px;	
+}
+
+#nurzholimg
+{
+position:absolute;
+left:150px;
+top:1550px;		
+}
+
+#khanimg
+{
+position:absolute;
+left:900px;
+top:2000px;	
+}
+
+#megaimg
+{
+position:absolute;
+left:150px;
+top:2700px;	
+}
+
+#asiaimg
+{
+	position:absolute;
+left:900px;
+top:3100px;
+}
