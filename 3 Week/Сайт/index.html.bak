@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="57x57" href="css/img/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="css/img/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="css/img/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="css/img/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="css/img/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="css/img/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="css/img/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="css/img/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="css/img/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="css/img/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="css/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="css/img/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="css/img/favicon-16x16.png">
+<link rel="manifest" href="css/img/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="css/style.css" type="text/css"/>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<title>Astana travel</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Astana Travel</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#Home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#About">About</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#view" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Viewpoint
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#expo">Expo</a></li>
+            <li><a class="dropdown-item" href="#pyramida">Pyramid</a></li>
+            <li><a class="dropdown-item" href="#kazak">Monument</a></li>
+			<li><a class="dropdown-item" href="#nurzhol">Boulevard</a></li>
+          </ul>
+        </li>
+		
+		<li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#shop1" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Shopping
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#khanshater">Khanshater</a></li>
+            <li><a class="dropdown-item" href="#mega">Mega Silk way</a></li>
+            
+            <li><a class="dropdown-item" href="#asiapark">Asia Park</a></li>
+			
+          </ul>
+        </li>
+		
+        <li class="nav-item">
+          <a class="nav-link" href="#contact">Contact</a>
+        </li>
+      </ul>
+      
+    </div>
+  </div>
+</nav>
+
+
+
+
+    
+    <div class="banner-area" id="Home"></div>
+    <div class="About" id="About"></div>
+    <div class="text-part">
+     <div id="about">   <h1>About Area </h1> </div>
+      <div id="country">  
+	  <p>The country's new capital has risen fast from the northern steppe and is already a showpiece for 21st-century Kazakhstan. Nur-Sultan was Astana until 2019, when it was renamed after the former president.Though characterised by its bitter, windy winters and hot, dusty summers, Nur-Sultan is a pleasant city with a young, forward-looking vibe. Kazakhstan's ambitious and talented youth are increasingly drawn here, and if you spend a few days, the capital will really begin to get under your skin, too.</p>
+      <img src="about.jpeg"alt="">
+    </div>
+    
+     
+      <div id="view">  <h1> Viewpoint </h1> </div>
+		<div id="expo">
+        <h3>Expo</h3>
+        <p>Expo 2017 Astana was an International Exposition which took place from June 10 to September 10, 2017 in Nur-Sultan, Kazakhstan, which was called Astana at the time. The expo's theme was "Future Energy", and aimed to create a global debate between countries, nongovernmental organizations, companies and the general public on the crucial question: "How do we ensure safe and sustainable access to energy for all while reducing CO2 emissions?"</p>
+        <img src="expo.jpeg" alt="">
+		</div>
+		<div id="expoimg">
+		<img src="css/img/expo.jpg" width="350px" height="250px">
+		
+		</div>
+        <div id="pyramida">
+		<h3 style="color:#fff" >Pyramid</h3>
+        <p>Unbelievable, but in Kazakhstan there is the pyramid. The modern building constructed by Norman Foster's project is located at 37 Tauyelsizdik street. The pyramid bears idea of the world, consent and tolerance, and 130 pigeons on a glass dome symbolize a multinationality of Kazakhstan. The grand staircase leads to the great hall "Atrium", where are organized various exhibitions, and on the top of the Pyramid hall is the "Cradle", where was the Congress of world religions. On the sixth floor of the Palace there is a modern art centre "Kulanshi", where periodic exhibitions are organized. One of the popular projects is the annual international festival "Art forum Kulanshi".</p>
+        <img src="pyramids.jpeg" alt="">
+		</div>
+		<div id="pyramidaimg">
+		<img src="css/img/piramida.jpg" width="350px" height="250px">
+		
+		</div>
+        <div id="kazak"><h3 style="color:#fff" >Independance Square and monument "The Kazakh Eli" </h3>
+        <p>Amazing panoramic views of a left bank of Astana open from Independence Square. All power and freedom of the country is felt on the square among majestic monuments and fountains. There are the National Museum of the Republic of Kazakhstan, the unique Palace of Peace and Reconciliation, the cathedral mosque Hazret-Sultan, National university of arts "Shabyt" in the neighbourhood.  The white marble colonnade and a stele, modern palaces and the museum show all power and freedom of modern Kazakhstan. New central square with fantastic architectural constructions in Astana - is the place obligatory for visit.</p>
+        <img src="Kazakh Eli monument.jpeg" alt="">
+		</div>
+		<div id="kazakimg">
+		<img src="css/img/kazakh.jpg" width="350px" height="250px">
+		</div>
+        <div id="nurzhol"><h3 style="color:#fff" > Nurzhol Boulevard. Green-Water Boulevard</h3>
+        <p>Nurzhol Boulevard (Green Water Boulevard) – is the pedestrian zone on the left coast where administrative, housing and entertainment complexes are located. The boulevard passes from the Independence Square to shopping and recreation center "Khan Shatyr". The three-level construction is the center of the new city and the ideal place for long walks and acquaintance to the city. The boulevard called Green water because of blue-green color of buildings, a large number of fountains, trees, ideal lawns and flower avenues. Creative architectural concepts immerse you in energy of the future. Walk on the boulevard gives the chance to admire  "Emerald quarter", large "Kazmedia center's" screens, "Nothern Lights" apartments, the fountain on the round square.</p>
+        <img src="Nurzhol Boulevard. .jpeg" alt="">
+      </div>
+	  <div id="nurzholimg">
+	  <img src="css/img/nurzhol.jpg" width="350px" height="250px">
+	  </div>
+	  <div id="shop1">
+	  <h1>Shopping Center </h1>
+	  </div>
+		
+    <div id="khanshater">
+    <h3 style="color:#fff" >Khanshater </h3>
+        <p>Khan Shatyr ("Royal Marquee") is a giant transparent tent in Astana, the capital city of Kazakhstan. Built in a distinctively neofuturist style, the architectural project was unveiled by the President of Kazakhstan Nursultan Nazarbayev on December 9, 2006.</p>
+        <img src="khanshater copy.jpg" alt="">
+		</div>
+		<div id="khanimg">
+		<img src="css/img/khanshatyr.jpg" width="350px" height="250px">
+		</div>
+       <div id="mega"> <h3 style="color:#fff" >Mega Silk Way</h3>
+        <p>MEGA Silk Way shopping mall is a new chapter of MEGA shopping malls chain. English architects of Chapman Taylor Company developed a main concept of creating one of the best projects in their portfolio – a shopping mall in Astana.</p>
+        <img src="mega.jpeg" alt="">
+		</div>
+		<div id="megaimg">
+		<img src="css/img/mega.jpg" width="350px" height="250px">
+		</div>
+        <div id="asiapark"><h3 style="color:#fff" >Asia Park</h3>
+        <p>Asia Park shopping mall in Astana is a modern shopping and entertainment complex offering a huge number of quality goods and services at attractive prices. This is a balanced combination of shops of domestic and foreign brands, entertainment, cafes and restaurants. The shopping center was opened in December 2009 and immediately acquired thousands of regular visitors who regularly shop in the mall.</p>
+        <img src="asia park.jpeg" alt="">
+      </div>
+	  <div id="asiaimg">
+	  <img src="css/img/asiapark.jpg" width="350px" height="250px">
+	  </div>
+
+    <div id="contact">
+    
+      <h1 style="color:#fff">Contact Us</h1>
+      <table>
+          <form>
+            <tr>
+              <td>
+                <label style="color:#fff" for="first name"> First name  </label>
+              </td>
+              <td>
+                <input type="text" id="first name" />
+              </td>
+            </tr>
+            <tr>
+              <td><label style="color:#fff" for="Last name "> Last name </label> 
+              </td>
+              <td><input type="Last name" id="Last name " /> 
+              </td>
+            </tr>
+            <tr>
+             <td><label style="color:#fff" for="Email "> Email  </label> 
+             </td>
+             <td><input type="Email " id="Email " /> 
+             </td>
+            </tr>
+            <tr>
+             <td><label style="color:#fff" for="Message"> Message </label> 
+             </td>
+             <td><input type="Message" id="Message " /> 
+             </td>
+             </tr>
+             <tr>
+             <td>
+               
+			   <a class="btn btn-outline-primary" href="#" role="button">Sumbit</a>
+
+             </td>
+             </tr>
+          </form>   
+      </table>
+	  </div>
+    </div> 
+
+<div class="container">
+  <div class="row">
+    <div class="col" >
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+  </div>
+</div>
+	<h1>.</h1>
+
+		
+<div class="container">
+  <div class="row">
+    <div class="col">
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+  </div>
+</div>
+
+
+
+</body>
+    </html>
+    

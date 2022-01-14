@@ -1,0 +1,202 @@
+body {
+background-image: url(img/bg.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-position: 0 0;
+background-attachment: fixed;
+background-color: #AFEEEE;
+font-family: "Rubic", sans-serif;
+  padding: 0;
+  margin: 20;
+  font-size: 14px;
+
+  
+  
+  
+
+}
+
+
+  p {color:white; font-family:Rubic;}
+ h3 {color:White; font-family: 'Montserrat', sans-serif;}
+
+
+
+
+}
+#text-part{
+	background: #80808080;
+	width:500px;
+height:500px;
+}
+
+
+#expo
+{
+background: #80808080;
+width:500px;
+height:200px;
+color:white;
+position:absolute;
+left:150px;
+top:300px;
+}
+
+#pyramida{
+	background: #80808080;
+width:500px;
+height:290px;
+position:absolute;
+left:900px;
+top:640px;
+}
+
+#kazak
+{
+background: #80808080;
+width:500px;
+height:290px;
+position:absolute;
+left:150px;
+top:1100px;	
+}
+
+#nurzhol
+{
+background: #80808080;
+width:500px;
+height:340px;
+position:absolute;
+left:900px;
+top:1550px;	
+}
+
+
+
+#shop1
+{
+	position:absolute;
+	top:2100px;
+	left:700px;
+	color:white;
+}
+
+#khanshater
+{
+background: #80808080;
+width:500px;
+height:200px;
+position:absolute;
+left:150px;
+top:2300px;
+}
+
+#mega
+{
+background: #80808080;
+width:500px;
+height:200px;
+position:absolute;
+left:900px;
+top:2700px;	
+}
+
+#asiapark
+{
+background: #80808080;
+width:500px;
+height:200px;
+position:absolute;
+left:150px;
+top:3100px	
+}
+
+#contact
+{
+	position:absolute;
+left:700px;
+top:3400px;	
+}
+
+#about
+{
+position:absolute;
+left:700px;
+top:50px;
+color:white;	
+}
+
+#view
+{
+position:absolute;
+left:700px;
+top:150px;	
+color:white;
+}
+
+#country
+{
+	position:absolute;
+left:0px;
+top:100px;
+}
+
+#expoimg
+{
+
+position:absolute;
+left:1000px;
+top:250px;
+}
+
+#pyramidaimg
+{
+position:absolute;
+left:150px;
+top:640px;	
+}
+
+#kazakimg
+{
+position:absolute;
+left:900px;
+top:1100px;	
+}
+
+#nurzholimg
+{
+position:absolute;
+left:150px;
+top:1550px;		
+}
+
+#khanimg
+{
+position:absolute;
+left:900px;
+top:2300px;	
+}
+
+#megaimg
+{
+position:absolute;
+left:150px;
+top:2700px;	
+}
+
+#asiaimg
+{
+	position:absolute;
+left:900px;
+top:3100px;
+}
+
+.container
+{
+	position:absolute;
+	top:3300;
+	left:500;
+	color:red;
+	padding:1000;
+}
+	
